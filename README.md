@@ -47,7 +47,7 @@ dependencies:
   permission_handler: ^12.0.1
 ```
 
-2. Android configuration:  
+2. Android configuration  
 android/app/build.gradle.kts
 
 ```kotlin
