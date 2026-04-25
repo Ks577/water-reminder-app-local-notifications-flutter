@@ -84,7 +84,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         color: buttonColor,
                         onPressed: () async {
                           await notificationService.scheduleDaily(
-                            id: 3,
+                            id: 4,
                             title: "Morning hydration ☀️",
                             body: "Start your day with water 💧",
                             hour: 10,
@@ -114,7 +114,7 @@ class _HomeScreenState extends State<HomeScreen> {
                             onConfirm: (date) async {
                               selectedTime = date;
                               await notificationService.scheduleAt(
-                                id: 4,
+                                id: 5,
                                 title: "Drink water 💧",
                                 body: "Your reminder is set",
                                 dateTime: selectedTime,
