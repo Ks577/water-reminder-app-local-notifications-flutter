@@ -15,7 +15,7 @@ A Flutter app for reminding users to drink water regularly using local notificat
 <p>
   <img src="assets/preview/demo3.png" height="650" style="border-radius: 16px;"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/preview/demo4.jpeg" height="650" style="border-radius: 16px;"/>
+  <img src="assets/preview/new.jpeg" height="650" style="border-radius: 16px;"/>
 </p>
 
 ## ✨ Features
